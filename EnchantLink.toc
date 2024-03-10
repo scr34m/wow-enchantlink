@@ -1,0 +1,4 @@
+## Interface: 11303
+## Title: Enchant Link
+## Notes: You can insert into the chat the required reagent for a selected enchant
+EnchantLink.lua
